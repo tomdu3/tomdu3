@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomdu3
 - 👀 I’m interested in coding, math, ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying Full Stack Web Development at https://github.com/Code-Institute-Org
 - 💞️ I’m looking to start a new life in 2023 as a computer programmer
 - 📫 How to reach me: discord --} tomdu3#8223
 
