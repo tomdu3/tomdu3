@@ -13,7 +13,7 @@
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
-- 📝 I regularly write articles on [www.codu.co/tomdu3](www.codu.co/tomdu3)
+- 📝 I regularly write articles on [www.codu.co/tomdu3](https://www.codu.co/tomdu3)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, C, Django, Flask**
 
