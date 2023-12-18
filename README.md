@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Predictive Analytics**
 
-- 👯 I’m currently collaborating on [**Movember Hackathon London - Trust in SODA and Code Institute**](https://www.linkedin.com/posts/trust-in-soda_movember-menshealth-codeinstitute-activity-7127572939738079233-u5jU?utm_source=share&utm_medium=member_desktop)
+- 👯 My last collaboration was on [**Movember Hackathon London - Trust in SODA and Code Institute**](https://www.linkedin.com/posts/trust-in-soda_movember-menshealth-codeinstitute-activity-7127572939738079233-u5jU?utm_source=share&utm_medium=member_desktop)
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
