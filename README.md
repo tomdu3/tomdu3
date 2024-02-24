@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomislav Dukez</h1>
-<h3 align="center">A passionate full stack developer from Croatia</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdu3&label=Profile%20views&color=0e75b6&style=flat" alt="tomdu3" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Machine Learning** 
 
-- 🌱 I’m currently learning **Predictive Analytics**
+- 🌱 I’m currently learning **React**
 
-- 👯 My last collaboration was on [**Movember Hackathon London - Trust in SODA and Code Institute**](https://www.linkedin.com/posts/trust-in-soda_movember-menshealth-codeinstitute-activity-7127572939738079233-u5jU?utm_source=share&utm_medium=member_desktop)
+- 👯 My last collaboration was on Hackathon organized by CodeInstitute in January 2024: 💲 Budget Busters: New Year, New Numbers 💲The goal was to build a project in 5 days with a financial topic and a real world use case. Our team built a bill splitting application: [**billBalancer**](https://github.com/sbojorge/Bill_splitting_0124Hackathon)
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
