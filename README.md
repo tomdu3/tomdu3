@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tomislav Dukez</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer with Machine Learning Specialization</h3>
+<p align="justify">I am a Full Stack Software Developer, specialized in Predictive Analytics. I am proficient in  JavaScript, Python, Bootstrap, Flask, Django, and PostgreSQL, as well as in Data Science tools like NumPy, Pandas, TensorFlow, Scikit-learn, Streamlit, Tableau, and more.</p>
 
+<p align="justify">I am a versatile and adaptable professional with over 10 years of work experience across diverse fields. I thrive in dynamic and creative environments and enjoy collaborating with teams to tackle complex challenges. My multi-faceted background enables me to bring fresh perspectives and innovative solutions to the table. As I continue to evolve professionally, I am excited to contribute my skills to projects that push boundaries and create meaningful impact.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdu3&label=Profile%20views&color=0e75b6&style=flat" alt="tomdu3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3" alt="tomdu3" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning** 
+- 🔭 I’m currently working on **Portfolio Page** 
 
 - 🌱 I’m currently learning **React**
 
@@ -15,13 +17,13 @@
 
 - 📝 I regularly write articles on [www.codu.co/tomdu3](https://www.codu.co/tomdu3)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, C, Django, Flask**
+- 💬 Ask me about **Python, JavaScript, C, Django, Flask**
 
 - 📫 How to reach me **tomdu3@ymail.com**
 
 - ⚡ Fun fact **I like math, classical music, literature, especially poetry, cycling and traveling**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
