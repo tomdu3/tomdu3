@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3" alt="tomdu3" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Page** 
+- 🔭 I’m currently working on [**Python Course Documentation**](https://tomdu3.github.io/) for my students.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Astro**
 
 - 👯 My last collaboration was on Hackathon organized by CodeInstitute in January 2024: 💲 Budget Busters: New Year, New Numbers 💲The goal was to build a project in 5 days with a financial topic and a real world use case. Our team built a bill splitting application: [**billBalancer**](https://github.com/sbojorge/Bill_splitting_0124Hackathon)
 
