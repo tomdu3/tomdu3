@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 👯 My last collaboration was on Hackathon organized by CodeInstitute in January 2024: 💲 Budget Busters: New Year, New Numbers 💲The goal was to build a project in 5 days with a financial topic and a real world use case. Our team built a bill splitting application: [**billBalancer**](https://github.com/sbojorge/Bill_splitting_0124Hackathon)
+- 👯 My last collaboration was on Hackathon organized by [Chingu](https://www.chingu.io/) in July-August 2024: 💲 Hungry Hippo💲Our team built has built a website for the food delivery system: [Hungry Hippo](https://github.com/chingu-voyages/v50-tier3-team-21)
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
 - 📝 I regularly write articles on [www.codu.co/tomdu3](https://www.codu.co/tomdu3)
 
-- 💬 Ask me about **Python, JavaScript, C, Django, Flask**
+- 💬 Ask me about **Python, JavaScript, C, Django, Flask, FastAPI**
 
 - 📫 How to reach me **tomdu3@ymail.com**
 
