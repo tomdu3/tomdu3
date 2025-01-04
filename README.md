@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**Python Course Documentation**](https://tomdu3.github.io/) for my students.
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning [**Astro**](https://astro.build/) and [**React**](https://react.dev/)
 
 - 👯 My last collaboration was on Hackathon organized by [Chingu](https://www.chingu.io/) in July-August 2024: 💲 Hungry Hippo💲Our team built has built a website for the food delivery system: [Hungry Hippo](https://github.com/chingu-voyages/v50-tier3-team-21)
 
