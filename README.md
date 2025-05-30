@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="tomdu3" /></a> </p>
 
-- 🔭 I’m currently working on [**Python Course Documentation**](https://tomdu3.github.io/) for my students.
-
-- 🌱 I’m currently learning [**Astro**](https://astro.build/) and [**React**](https://react.dev/)
+- 🌱 I’m currently learning [**NextJS**]([https://astro.build/](https://nextjs.org/) and **AI**
 
 - 👯 My last collaboration was on Hackathon organized by [Chingu](https://www.chingu.io/) in July-August 2024: 💲 Hungry Hippo💲Our team built has built a website for the food delivery system: [Hungry Hippo](https://github.com/chingu-voyages/v50-tier3-team-21)
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
-- 📝 I regularly write articles on [www.codu.co/tomdu3](https://www.codu.co/tomdu3)
+- 📝 I regularly write articles on my blog [**Beyond 400**]([https://www.codu.co/tomdu3](https://beyond400.vercel.app/) and my [**LinkedIn Profile**](https://linkedin.com/in/tomislav-dukez) 
 
 - 💬 Ask me about **Python, JavaScript, C, Django, Flask, FastAPI**
 
-- 📫 How to reach me **tomdu3@ymail.com**
+- 📫 How to reach me **tomdu3@ymail.com** or my webiste [**tomdu3.co.uk**](https://tomdu3.co.uk/)
 
 - ⚡ Fun fact **I like math, classical music, literature, especially poetry, cycling and traveling**
 
