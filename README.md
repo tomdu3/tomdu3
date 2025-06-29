@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) and **AI**
 
 - 👯 I am taking part in the [Chingu](https://www.chingu.io/) Voyage # 56 in July-August 2025.
-- 
+
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
 - 📝 I regularly write articles on my blog [**Beyond 400**]([https://www.codu.co/tomdu3](https://beyond400.vercel.app/) and my [**LinkedIn Profile**](https://linkedin.com/in/tomislav-dukez) 
