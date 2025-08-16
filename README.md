@@ -13,7 +13,7 @@
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
-- 📝 I regularly write articles on my blog [**Beyond 400**]([https://www.codu.co/tomdu3](https://beyond400.vercel.app/) and my [**LinkedIn Profile**](https://linkedin.com/in/tomislav-dukez) 
+- 📝 I regularly write articles on my blog [**Beyond 400**](https://beyond400.vercel.app/) and my [**LinkedIn Profile**](https://linkedin.com/in/tomislav-dukez) 
 
 - 💬 Ask me about **Python, JavaScript, C, Django, Flask, FastAPI**
 
