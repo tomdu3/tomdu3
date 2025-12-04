@@ -51,11 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tomdu3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/tomdu3/books-for-life" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomdu3&repo=books-for-life&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tomdu3/smiley-memories" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomdu3&repo=smiley-memories&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/tomdu3/brain-tumor-detector" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomdu3&repo=brain-tumor-detector&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a><a href="https://github.com/tomdu3/out-and-about" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomdu3&repo=out-and-about&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
