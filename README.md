@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdu3&label=Profile%20views&color=0e75b6&style=flat" alt="tomdu3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="tomdu3" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="tomdu3" /></a> </p> -->
 
 - 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) and **AI**
 
