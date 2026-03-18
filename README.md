@@ -50,4 +50,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tomdu3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p> -->
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=dark)
