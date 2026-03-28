@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Python, JavaScript, C, Django, Flask, FastAPI**
 
-- 📫 How to reach me **tomdu3@ymail.com** or my webiste [**tomdu3.co.uk**](https://tomdu3.co.uk/)
+- 📫 How to reach me **tomdu3@ymail.com**, **tomislav.dukez@gmail.com**, or my webiste [**tomdu3.co.uk**](https://tomdu3.co.uk/)
 
 - ⚡ Fun fact **I like math, classical music, literature, especially poetry, cycling and traveling**
 
