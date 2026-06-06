@@ -68,3 +68,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdu3&theme=dark" width="48%" alt="Stats Card" />
 
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=tomdu3&theme=tokyonight&hide_border=false" alt="Tomislav's GitHub Streak" />
+  </a>
+</p>
