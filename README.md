@@ -59,6 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=dark) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 <p align="center">
   <!-- Core GitHub Stats (Using verified extended mirror) -->
   <img src="https://github-stats-extended.vercel.app/api?username=tomdu3&theme=dark&show_icons=true&hide_border=false" width="48%" alt="GitHub Stats" />
@@ -66,10 +67,7 @@
   <!-- Matching Coding Streak Stats -->
   <!-- <img src="https://streak-stats.demolab.com/?user=tomdu3&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdu3&theme=dark" width="48%" alt="Stats Card" />
-
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=tomdu3&theme=tokyonight&hide_border=false" alt="Tomislav's GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomdu3&theme=react-dark" alt="Activity Graph" />
 </p>
