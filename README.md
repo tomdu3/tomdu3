@@ -56,14 +56,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomdu3&theme=react-dark" alt="Activity Graph" />
 </p>
- -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tomdu3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tomdu3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=dark) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 <p align="center">
   <!-- Core GitHub Stats (Using verified extended mirror) -->
