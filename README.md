@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdu3&label=Profile%20views&color=0e75b6&style=flat" alt="tomdu3" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdu3&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="tomdu3" /></a> </p> -->
-- 🌱 I’m currently learning [**NextJS**](https://nextjs.org/) and **AI**
+- 🌱 I’m currently learning **Machine Learning** and **AI**
 
-- 👯 I took part in the [Chingu](https://www.chingu.io/) Voyage # 56 in July-August 2025.
+- 👯 I took part in the [Chingu](https://www.chingu.io/) Voyage #62 in April-May 2026.
 
 - 🤝 I’m open to collaborating on **FullStack Web Projects, Python Projects**
 
