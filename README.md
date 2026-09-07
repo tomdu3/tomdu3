@@ -63,7 +63,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tomdu3&theme=tokyonight&hide_border=false)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdu3&theme=dark&hide_border=false" alt="tomdu3" /></p>
 <p align="center">
   <!-- Core GitHub Stats (Using verified extended mirror) -->
